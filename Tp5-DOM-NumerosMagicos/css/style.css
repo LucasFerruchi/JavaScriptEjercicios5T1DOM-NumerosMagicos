@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(149, 226, 226);
+    background-image: url(https://static8.depositphotos.com/1160465/822/i/450/depositphotos_8228852-stock-photo-full-color-old-wood-room.jpg);
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    flex-grow: 1;
+}
